@@ -916,7 +916,7 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   textTimer: {fileID: 1214784594}
-  GameOverPanel: {fileID: 818692500}
+  GameOverPanel: {fileID: 1961831087}
 --- !u!114 &818692507
 MonoBehaviour:
   m_ObjectHideFlags: 0

@@ -244,8 +244,16 @@ PrefabInstance:
       value: Audio Manager
       objectReference: {fileID: 0}
     - target: {fileID: 4738884325181449458, guid: 82b91a4dee516f4478328f021fb89c85, type: 3}
+      propertyPath: Loop
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 4738884325181449458, guid: 82b91a4dee516f4478328f021fb89c85, type: 3}
       propertyPath: m_Volume
       value: 0.5
+      objectReference: {fileID: 0}
+    - target: {fileID: 8572258984691116362, guid: 82b91a4dee516f4478328f021fb89c85, type: 3}
+      propertyPath: Loop
+      value: 1
       objectReference: {fileID: 0}
     - target: {fileID: 8572258984691116362, guid: 82b91a4dee516f4478328f021fb89c85, type: 3}
       propertyPath: m_Volume

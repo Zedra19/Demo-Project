@@ -18,4 +18,8 @@ public class MobsMovement : MonoBehaviour
     {
         transform.position += Vector3.back * speed * Time.deltaTime;
     }
+
+    void OnTriggerEnter(){
+        
+    }
 }

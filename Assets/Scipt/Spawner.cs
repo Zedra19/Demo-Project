@@ -36,6 +36,7 @@ public class Spawner : MonoBehaviour
                 var getRandomPosX = Random.Range(-4f,4f);
                 mobsClone.transform.position = new Vector3(getRandomPosX,transform.position.y, transform.position.z);
             }
+            timer = 0f;
         }
     }
 }
